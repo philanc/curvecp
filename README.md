@@ -12,7 +12,7 @@ https://tinyssh.org/ - https://github.com/janmojzis/tinyssh. It uses tweetnacl a
 
 These programs are intended to be built statically with Musl libc.  The `build.sh` uses the Musl gcc wrapper (see https://www.musl-libc.org/how.html)
 
-**Example of use:**  see file smoketest.sh
+**Example:**  For a very simple example, see the file `smoketest.sh`
 
 **License:**  the original Dan Bernstein's code and the tinyssh code by Jan Mojzís are Public Domain. Where public domain does not work, Jan Mojzís proposes a CC0 license (see LICENSE at https://github.com/janmojzis/tinyssh)
 
